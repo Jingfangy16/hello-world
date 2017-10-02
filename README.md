@@ -1,3 +1,3 @@
 # hello-world
 lalala
-I'm bad
+I'm bad.
